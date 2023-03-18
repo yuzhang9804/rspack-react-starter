@@ -1,0 +1,24 @@
+{
+  "name": "rspack-starter",
+  "version": "o.0.1",
+  "description": "基于rspack的模版",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@rspack/cli": "^0.1.1",
+    "@types/node": "^18.15.3",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
