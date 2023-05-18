@@ -16,3 +16,6 @@ dist
 !.vscode/extensions.json
 .idea
 .DS_Store
+
+
+pnpm-lock.yaml
